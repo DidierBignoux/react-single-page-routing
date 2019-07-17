@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react-single-page-routing/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-single-page-routing/static/js/main.88ffb6be.chunk.js",
-    "main.js.map": "/react-single-page-routing/static/js/main.88ffb6be.chunk.js.map",
+    "main.css": "/react-single-page-routing/static/css/main.10efd67d.chunk.css",
+    "main.js": "/react-single-page-routing/static/js/main.3806cb3b.chunk.js",
+    "main.js.map": "/react-single-page-routing/static/js/main.3806cb3b.chunk.js.map",
     "runtime~main.js": "/react-single-page-routing/static/js/runtime~main.be65ed8d.js",
     "runtime~main.js.map": "/react-single-page-routing/static/js/runtime~main.be65ed8d.js.map",
-    "static/js/2.b41502e9.chunk.js": "/react-single-page-routing/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/react-single-page-routing/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.54240292.chunk.js": "/react-single-page-routing/static/js/2.54240292.chunk.js",
+    "static/js/2.54240292.chunk.js.map": "/react-single-page-routing/static/js/2.54240292.chunk.js.map",
     "index.html": "/react-single-page-routing/index.html",
-    "precache-manifest.eb9075019d58833262cca77f6a42a39a.js": "/react-single-page-routing/precache-manifest.eb9075019d58833262cca77f6a42a39a.js",
+    "precache-manifest.18a098453219c073f700d826126624af.js": "/react-single-page-routing/precache-manifest.18a098453219c073f700d826126624af.js",
     "service-worker.js": "/react-single-page-routing/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/react-single-page-routing/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/react-single-page-routing/static/media/logo.5d5d9eef.svg"
+    "static/css/main.10efd67d.chunk.css.map": "/react-single-page-routing/static/css/main.10efd67d.chunk.css.map"
   }
 }
